@@ -1,25 +1,8 @@
 
-<a href="https://komarev.com/ghpvc/?username=alsiam">
-  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-
-
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
-
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Nguyen Truong Phi</a></b>
-        </samp>
-</h3>
-
-
-<p align="center"> 
-  <samp>
-    「 I am a backend developer from <b>VietNam</b> 」
-  </samp>
-    <br>
-</p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=B24392&size=35&center=true&vCenter=true&random=false&width=435&lines=Hello+everyone+!+%F0%9F%91%8B+;+I'm+Nguyen+Truong+Phi!" alt="Karem Saad" /></a>
+    </h1>
+<h3 align="center"> Backend Developer 👨‍💻| Software Engineer 🌐🛠️ </h3>
 
 <p align="center">
  <a href="[https://linkedin.com/in/al-siam](https://www.linkedin.com/in/tr%C6%B0%E1%BB%9Dng-phi-nguy%E1%BB%85n-7b7179241/)" target="_blank">
@@ -29,6 +12,19 @@
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
   </a> 
 </p>
+
+<!-- 
+<details><summary> <h3> Who Am I 🕵️‍♂️ ? </h3></summary>
+
+
+**`Hi, I am Karem Saad. I have a Diploma in Software Engineering from the Technical Computer College at Damascus University, and I am in my second year of Information Technology Engineering at the Syrian Virtual University. Currently, I am in my third year of diving into the world of programming and software engineering.
+Throughout this journey, I have discovered many great concepts such as OOP, SOLID principles, generics with abstract classes, unit testing, and UML. I apply these concepts to every language I work with, including C#, Dart, PHP, and Python.
+In my last experience with a large project, I recognized the importance of implementing design patterns for scalability and maintainability. This led me to delve deeper into methodologies like Model-View-Controller (MVC) and the Repository Pattern. My goal is always to provide the best experience for my clients or the team I work with.
+Lately, I have been focusing on frameworks such as Flutter and Laravel to elevate my skills in both. Additionally, I utilize tools such as Git to enhance my workflow. I am committed to continually learning and improving in my field.
+`**
+
+</details>
+-->
 
 <!-- About Section -->
  # About me
